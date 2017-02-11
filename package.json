@@ -1,0 +1,24 @@
+{
+  "name": "uiautomation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apurva165/NightwatchJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apurva165/NightwatchJS/issues"
+  },
+  "homepage": "https://github.com/apurva165/NightwatchJS#readme",
+  "devDependencies": {
+    "chromedriver": "^2.27.2",
+    "nightwatch": "^0.9.12",
+    "selenium-server-standalone-jar": "^3.0.1"
+  }
+}
